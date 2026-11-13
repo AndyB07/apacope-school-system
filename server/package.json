@@ -1,0 +1,2 @@
+{"name":"gsa-server","type":"module","scripts":{"start":"node index.js","seed":"node seed.js","provision-operations-demo-users":"node provision-operations-demo-users.js","link-student-demo-to-l5swd":"node link-student-demo-to-l5swd.js","link-parent-demo-learners":"node link-parent-demo-learners.js","format-demo-student-names":"node format-demo-student-names.js","diversify-demo-student-names":"node diversify-demo-student-names.js"},
+"dependencies":{"bcryptjs":"^2.4.3","cors":"^2.8.5","dotenv":"^16.4.5","express":"^4.19.2","jsonwebtoken":"^9.0.2","mongoose":"^8.5.0"}}
